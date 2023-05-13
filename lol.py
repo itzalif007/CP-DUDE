@@ -387,7 +387,7 @@ def follow(ses,coki):
 	get = r.find('a', string='Follow').get('href')
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
-logo = ("""\033[1;34m
+logo = ("""\033[91;1m
        
 ▄▄▄       ██▓     ██▓  █████▒
 ▒████▄    ▓██▒    ▓██▒▓██   ▒
@@ -400,13 +400,14 @@ logo = ("""\033[1;34m
       ░  ░    ░  ░ ░
 __________________ERROR______________________
   
-  Auther   :  DUDE MALANG
+  Auther   :  DUDE AHAMEED
  
   Github   :  itzalif007
 
   Facebook : AG 420 GAMING YT
   
   Tiktok   : ag420gamingyt
+  
 __________________DUDE______________________\033[1;37m""")
 
 class Main:
