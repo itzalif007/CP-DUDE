@@ -1,7 +1,7 @@
 # CP-DUDE
 
 
-https://github.com/itzalif007/CP-DUDE
+git clone https://github.com/itzalif007/CP-DUDE
 
 cd CP-DUDE
 
