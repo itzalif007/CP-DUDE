@@ -388,11 +388,11 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
 logo = ("""\033[92;1m
-
-
-
-
-
+j
+j
+j
+h
+y
   _____  _    _ _____  ______ 
 
  |  __ \| |  | |  __ \|  ____|
@@ -404,18 +404,7 @@ logo = ("""\033[92;1m
  | |__| | |__| | |__| | |____ 
 
  |_____/ \____/|_____/|______|
-              ALIF
-                              
 
-                              
-
-
-
-
-
-
-
-     
 __________________ERROR______________________
   
   Auther   :  DUDE AHAMEED
